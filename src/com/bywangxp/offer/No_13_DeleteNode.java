@@ -1,4 +1,7 @@
 package com.bywangxp.offer;
+
+import com.bywangxp.util.ListNode;
+
 /**
  * @author    作者：bywangxp   E-mail: bywangxp@mail.ustc.edu.cn
  * @date      创建时间：2017年3月16日 下午9:17:10 

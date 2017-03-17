@@ -1,4 +1,7 @@
 package com.bywangxp.offer;
+
+import com.bywangxp.util.ListNode;
+
 /**
  * @author    作者：bywangxp   E-mail: bywangxp@mail.ustc.edu.cn
  * @date      创建时间：2017年3月16日 下午9:07:12 
@@ -7,7 +10,7 @@ package com.bywangxp.offer;
  * @summary 
  *
  */
-public class No_5_PrintListReveringly {
+public class No_05_PrintListReveringly {
 	public static void main(String[] args) {
 		ListNode head=new ListNode(1);
 		ListNode head2=new ListNode(2);

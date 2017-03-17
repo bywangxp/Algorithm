@@ -2,7 +2,7 @@ package com.bywangxp.offer;
 
 import java.util.Arrays;
 
-public class No_4_ReplaceBlack {
+public class No_04_ReplaceBlack {
 	
 	/**
 	 * @author    作者bywangxp  E-mail: bywangxp@mail.ustc.edu.cn
