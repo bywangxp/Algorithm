@@ -13,7 +13,7 @@ import java.util.Stack;
  *            然后队列1出队列，即为出栈，进队列时，直接进入有元素的队列，模仿之前的方法。
  *
  */
-public class No_7_DoubleStackToQueue {
+public class No_07_DoubleStackToQueue {
 	public static void main(String[] args) {
 		CQueue queue=new CQueue();
 		queue.appendTail(1);
