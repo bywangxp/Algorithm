@@ -13,7 +13,7 @@ package com.bywangxp.offer;
  *            
  *
  */
-public class No_10_NumverOf1 {
+public class No_10_NumberOf1 {
 	public static void main(String[] args) {
 		int solution = solution1(-1);
 		System.out.println(solution);
