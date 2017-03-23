@@ -9,7 +9,7 @@ import com.bywangxp.util.ListNode;
  * @quesetion 给定一个单向链表的头指针和和一个结点指针，定义一个函数在O(1)时间删除该结点
  * @summary 
  * 			  1.要想到删除一个结点，不一定要删除它本身，可以通过先复制下一个结点的值到当前结点，然后删除也可。
- *  		  2.要考虑特殊情况，比如删除的是末尾结点，以及只有一个结点的情况。
+ *  		      2.要考虑特殊情况，比如删除的是末尾结点，以及只有一个结点的情况。
  */
 public class No_13_DeleteNode {
 	public static void main(String[] args) {

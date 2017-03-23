@@ -23,8 +23,6 @@ public class No_18_DoesTree1HaveTree2 {
 		root1.right = root3;
 		root2.left = root4;
 		root2.right = root5;
-		root4.left = root6;
-		root1.right = null;
 		root6.left = null;
 		root6.right = null;
 		root5.left = null;

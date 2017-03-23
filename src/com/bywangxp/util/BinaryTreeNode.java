@@ -17,4 +17,11 @@ public class BinaryTreeNode {
 	public BinaryTreeNode(){
 		
 	}
+	public static void preOrder(BinaryTreeNode root){
+		if(root != null){
+			System.out.print(root.value+",");
+			preOrder(root.left);
+			preOrder(root.right);
+		}
+	}
 }
