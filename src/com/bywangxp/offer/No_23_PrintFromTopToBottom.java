@@ -4,7 +4,6 @@ import java.util.LinkedList;
 
 import com.bywangxp.util.BinaryTreeNode;
 
-import sun.applet.Main;
 
 /**
  * @author    作者：bywangxp   E-mail: bywangxp@mail.ustc.edu.cn
