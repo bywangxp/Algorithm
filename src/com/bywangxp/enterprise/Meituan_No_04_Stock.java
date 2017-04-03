@@ -1,4 +1,4 @@
-package com.bywangxp.newcoder.enterprise.meituan;
+package com.bywangxp.enterprise;
 /**
  * @author    作者：bywangxp   E-mail: bywangxp@mail.ustc.edu.cn
  * @date      创建时间：2017年3月20日 下午8:20:36 
@@ -10,6 +10,6 @@ package com.bywangxp.newcoder.enterprise.meituan;
  * @summary 
  *
  */
-public class No_04_Stock {
+public class Meituan_No_04_Stock {
 
 }

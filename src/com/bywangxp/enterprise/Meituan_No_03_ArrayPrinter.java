@@ -1,4 +1,4 @@
-package com.bywangxp.newcoder.enterprise.meituan;
+package com.bywangxp.enterprise;
 
 import java.util.Arrays;
 
@@ -11,7 +11,7 @@ import java.util.Arrays;
  * @summary 
  *
  */
-public class No_03_ArrayPrinter {
+public class Meituan_No_03_ArrayPrinter {
 	public static void main(String[] args) {
 		int [][]array={{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
 		int[] arrayPrint = arrayPrint(null,0);

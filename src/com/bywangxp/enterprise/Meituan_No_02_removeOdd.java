@@ -1,4 +1,4 @@
-package com.bywangxp.newcoder.enterprise.meituan;
+package com.bywangxp.enterprise;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +15,7 @@ import java.util.Scanner;
  * @summary   第奇数位，代表第1位，第3位，这个不是从0开始
  *
  */
-public class No_02_removeOdd {
+public class Meituan_No_02_removeOdd {
 	public static void main(String[] args) {
 		
 	

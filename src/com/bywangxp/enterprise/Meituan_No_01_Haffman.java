@@ -1,4 +1,4 @@
-package com.bywangxp.newcoder.enterprise.meituan;
+package com.bywangxp.enterprise;
 
 import java.util.Comparator;
 import java.util.HashMap;
@@ -20,7 +20,7 @@ import sun.misc.Queue;
  * @summary 
  *
  */
-public class No_01_Haffman {
+public class Meituan_No_01_Haffman {
 	public static void main(String[] args) {
 		int solution = solution("AAB");
 		System.out.println(solution);

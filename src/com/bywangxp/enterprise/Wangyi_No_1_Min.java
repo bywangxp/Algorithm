@@ -1,4 +1,4 @@
-package com.bywangxp.newcoder;
+package com.bywangxp.enterprise;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -18,7 +18,6 @@ import java.util.Scanner;
  */
 public class Wangyi_No_1_Min {
 	//设置两个指针，分别指向第一个和最后一个元素，如果第一个元素比最后一个元素大，则两个后两个元素合并一直重复下
-  @SuppressWarnings("resource")
 public static void main(String[] args) {
 	  Scanner scanner = new Scanner(System.in);
 	  int flag = 0;

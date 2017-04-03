@@ -1,4 +1,4 @@
-package com.bywangxp.newcoder;
+package com.bywangxp.enterprise;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @summary 
  *
  */
-public class No_01_Huawei_Test {
+public class Huawei_No_01_Huawei_Test {
 	
 	    public static void main(String []args){
 	        int flag = 0;

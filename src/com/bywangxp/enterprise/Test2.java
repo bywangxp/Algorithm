@@ -1,4 +1,4 @@
-package com.bywangxp.test;
+package com.bywangxp.enterprise;
 
 import java.util.Arrays;
 import java.util.Scanner;
