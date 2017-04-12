@@ -94,7 +94,7 @@ public class No_30_GetLeastNumbers {
 		}
 		 //生成k个结点大顶堆
 		for(int position = k / 2 -1 ;position >= 0; -- position){
-			adjustHeap(array, position, k -1);
+			adjustHeap(array, position, k);
 		}
 		//开始从第k个元素开始遍历
 		for(int index = k;index < array.length;++index){
