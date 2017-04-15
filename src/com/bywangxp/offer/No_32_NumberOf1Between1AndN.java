@@ -7,6 +7,6 @@ package com.bywangxp.offer;
  * @summary    
  *
  */
-public class No_35_NumberOf1Between1AndN {
+public class No_32_NumberOf1Between1AndN {
 
 }
